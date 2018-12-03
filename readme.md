@@ -1,5 +1,5 @@
-**For The Greater Good**  
-Made for Ludum Dare 43 "Sacrifices Must be Made"
+# For The Greater Good
+### Made for Ludum Dare 43 "Sacrifices Must be Made"
 
 You can play it here: [click](http://www.astudyinpixels.com/ld43)
 
